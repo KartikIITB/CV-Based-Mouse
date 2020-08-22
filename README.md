@@ -1,5 +1,5 @@
 # CV-Based-Mouse
-In this project, we use the openCV and pyautogui libraries in python to create a mouse that works based on coulur markers (Yellow for movement of the cursor and Green for left click).
+In this project, we use the openCV and pyautogui libraries in python to create a mouse that works based on colour markers (Yellow for movement of the cursor and Green for left click).
 
 The pipeline for the above project is as follows:
 
